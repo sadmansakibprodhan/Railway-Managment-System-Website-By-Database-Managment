@@ -1,0 +1,112 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+
+body
+{
+	font-size: 80%
+	background:#F8F8FF;
+
+}
+
+header
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+} 
+
+h2
+{
+	color: gold;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 0px;
+	text-decoration: all;
+
+
+}
+
+.SignUp
+{
+	width: 30%;
+	margin: 0px auto 0px;
+	color: white;
+	background:white;
+	text-align: center;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+
+}
+
+form
+{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	background: solid white;
+	border-radius: 0px 0px 10px 10px;
+
+}
+
+.input-group label
+{
+	display: block;
+	text-align: left;
+	margin: 3px;
+	font-family: "Roboto",sans-serif;
+}
+
+.input-group input
+{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 30px;
+	border-radius: 5px;
+	border:1px solid gray;
+
+
+}
+
+.btn
+{
+	padding: 20px;
+	font-size: 15px;
+	color: white;	
+	background: transparent;
+	border: 1px solid white;
+	border-radius: 3px;
+
+}
+
+.error
+{
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid white;
+	color:red;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+

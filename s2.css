@@ -1,0 +1,113 @@
+.containerdark
+{
+	border: 1px solid white;
+	border-radius: 3px;
+	width: 10%;
+
+}
+
+.wrapper
+{
+	width: 900px;
+	margin: auto;
+}
+
+.navmenu
+{
+	float: right;
+	border: 1px solid white;
+	border-radius: 3px;
+	margin-top: 0px;
+	float: right;
+	list-style: none;
+	margin: 0px;
+}
+.dark
+{
+	float: right;
+	list-style: none;
+	background-color: transparent;
+	color: white;
+	margin-top: 0px;
+
+}
+
+.hero
+{
+	position: absolute;
+	width: : 1200px;
+	margin-left: 0px;
+	margin-top: 0px;
+
+}
+h1
+
+{
+	color: black;
+	text-transform: uppercase;
+	font-size: 40px;
+	text-align: center;
+	margin-top: -175px;
+
+}
+
+.hero1
+{
+	position: absolute;
+	width: 20px;
+	margin-left: 50px;
+	margin-top: 0;
+}
+
+h2
+{
+	color: gold;
+	text-transform: uppercase;
+	font-size:20px;
+	text-align: right;
+	margin-top: 0px;
+	text-decoration: all;
+
+
+}
+*/
+*{
+	margin:0px;
+}
+
+h3
+{
+	font-color:red;
+	font-size: 25px;
+	margin-top:  -20px;
+	margin-left: 475px;
+}
+
+ul li
+{
+	
+	width: 130px;
+	display: inline-block;
+	height: 35px;
+	line-height: 55px;
+	text-align: center;
+}
+ul li a
+{
+	color: white;
+	text-decoration: none;
+	display: block;
+	font-family: "Roboto",sans-serif;
+	font-size: 15px;
+}
+
+ul li a:hover
+{
+	background-color: transparent;
+	color:black;
+}
+
+ul li{
+	cursor: pointer;
+	margin-left: 35px;
+}
